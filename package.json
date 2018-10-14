@@ -1,0 +1,22 @@
+{
+  "name": "duggout_assignment",
+  "version": "1.0.0",
+  "description": "coding assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poojavpatel/duggout_assignment.git"
+  },
+  "author": "Pooja Patel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Poojavpatel/duggout_assignment/issues"
+  },
+  "homepage": "https://github.com/Poojavpatel/duggout_assignment#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
